@@ -1,0 +1,11 @@
+C:\Users\Wojtek\Desktop\WojciechWojtowiczLab1\WojciechWojtowiczLabb1\bin\Debug\WojciechWojtowiczLabb1.exe.config
+C:\Users\Wojtek\Desktop\WojciechWojtowiczLab1\WojciechWojtowiczLabb1\bin\Debug\WojciechWojtowiczLabb1.exe
+C:\Users\Wojtek\Desktop\WojciechWojtowiczLab1\WojciechWojtowiczLabb1\bin\Debug\WojciechWojtowiczLabb1.pdb
+C:\Users\Wojtek\Desktop\WojciechWojtowiczLab1\WojciechWojtowiczLabb1\obj\Debug\WojciechWojtowiczLab1.csprojAssemblyReference.cache
+C:\Users\Wojtek\Desktop\WojciechWojtowiczLab1\WojciechWojtowiczLabb1\obj\Debug\WojciechWojtowiczLabb1.FormAbout.resources
+C:\Users\Wojtek\Desktop\WojciechWojtowiczLab1\WojciechWojtowiczLabb1\obj\Debug\WojciechWojtowiczLabb1.FormMain.resources
+C:\Users\Wojtek\Desktop\WojciechWojtowiczLab1\WojciechWojtowiczLabb1\obj\Debug\WojciechWojtowiczLabb1.Properties.Resources.resources
+C:\Users\Wojtek\Desktop\WojciechWojtowiczLab1\WojciechWojtowiczLabb1\obj\Debug\WojciechWojtowiczLab1.csproj.GenerateResource.cache
+C:\Users\Wojtek\Desktop\WojciechWojtowiczLab1\WojciechWojtowiczLabb1\obj\Debug\WojciechWojtowiczLab1.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\Desktop\WojciechWojtowiczLab1\WojciechWojtowiczLabb1\obj\Debug\WojciechWojtowiczLabb1.exe
+C:\Users\Wojtek\Desktop\WojciechWojtowiczLab1\WojciechWojtowiczLabb1\obj\Debug\WojciechWojtowiczLabb1.pdb
