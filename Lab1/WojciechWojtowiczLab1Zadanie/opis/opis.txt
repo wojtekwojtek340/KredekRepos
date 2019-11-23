@@ -1,0 +1,17 @@
+Mój program jest symulatorem rozwoju wioski.
+Surowcami dostêpnymi w grze jest drewno oraz z³oto.
+Posiadamy w³asn¹ armiê w postaci wojowników.
+W grze liczone s¹ dni oraz godziny.
+Wystêpuj¹ 4 rodzaje budowli: kopalnia z³ota, tartak, koszary oraz mur.
+Kopalnia pozwala na wydobycie z³ota, zwiêkszaj¹c poziom kopalni zwiêkszamy wydobycie z³ota.
+Tartak pozwala na wydobycie drewna, zwiêkszaj¹c poziom tartaka zwiêkszamy wydobycie drewna.
+Poprzez koszary mo¿emy rekrutowaæ wojowników, poziom koszar ma wp³yw na cenê rekrutacji ka¿dego wojownika.
+Mur odpowiedzialny jest za obronê wioski przed bandytami, im wiêkszy poziom muru, tym wiêkszy wspó³czynnik do obrony wioski.
+Aby ulepszyæ ka¿d¹ z budowli potrzebujemy odpowiedni¹ iloœæ drewna oraz z³ota.
+Nowe surowce otrzymujemy codziennie.
+Co 7 dni wystêpuje zdarzenie losowe:
+Mog¹ odwiedziæ nas sojusznicy, otrzymujemy wtedy dodatkowo z³oto i drewno.
+Mog¹ napaœæ na nas bandyci, w zale¿noœci od iloœci naszego wojska mo¿emy wygraæ albo przegraæ. Je¿eli wygramy tracimy czêœæ wojska,
+zale¿y to od poziomu muru i iloœci naszych wojowników. Je¿eli przegramy oprócz utraty wojowników, tracimy równie¿ surowce.
+Wioskê mo¿ne nawiedziæ równie¿ zaraza, która pozbawia nas czêœci wojowników.
+Gra trwa w nieskoñczonoœæ dopóki siê nie znudzi :)
