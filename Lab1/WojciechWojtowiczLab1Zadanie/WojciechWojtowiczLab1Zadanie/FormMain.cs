@@ -80,7 +80,7 @@ namespace WojciechWojtowiczLab1Zadanie
         }
 
         /// <summary>
-        /// akcesor zwracajacy poziom koszar
+        /// akcesor zwracąjacy poziom koszar
         /// </summary>
         /// <returns></returns>
         public int GetBarrackLevel()
