@@ -33,8 +33,8 @@ namespace WojciechWojtowiczLab1Zadanie
         {
             formMain = test as FormMain;
             InitializeComponent();
-            labelMyArmy.Text = "Posiadani wojownicy " + formMain.getMyArmy();
-            labelMyGold.Text = "Posiadane złoto " + formMain.getGold();
+            labelMyArmy.Text = "Posiadani wojownicy " + formMain.GetMyArmy();
+            labelMyGold.Text = "Posiadane złoto " + formMain.GetGold();
         }
 
         /// <summary>
@@ -58,7 +58,7 @@ namespace WojciechWojtowiczLab1Zadanie
             try
             {
                 numberOfWarriors = Int32.Parse(textBoxChoose.Text);
-                labelExpense.Text = "Koszt " + numberOfWarriors *(30-formMain.getBarrackLevel());
+                labelExpense.Text = "Koszt " + numberOfWarriors *(30-formMain.GetBarrackLevel());
             }
             catch
             {
@@ -76,22 +76,22 @@ namespace WojciechWojtowiczLab1Zadanie
         private void buttonConfirm_Click(object sender, EventArgs e)
         {
             //pobieram wartosci z formMain
-            int gold = formMain.getGold();
-            int myArmy = formMain.getMyArmy();   
+            int gold = formMain.GetGold();
+            int myArmy = formMain.GetMyArmy();   
             
-            if(gold - numberOfWarriors * (30 - formMain.getBarrackLevel()) >= 0)
+            if(gold - numberOfWarriors * (30 - formMain.GetBarrackLevel()) >= 0)
             {
                 //wykonuje operacje na tych wartościach
-                gold -= numberOfWarriors * (30 - formMain.getBarrackLevel());
+                gold -= numberOfWarriors * (30 - formMain.GetBarrackLevel());
                 myArmy += numberOfWarriors;
 
                 //ustawiam wartosci zmodyfikowane
-                formMain.setGold(gold);
-                formMain.setMyArmy(myArmy);
+                formMain.SetGold(gold);
+                formMain.SetMyArmy(myArmy);
 
                 //wyswietlam je w okienku
-                labelMyArmy.Text = "Posiadani wojownicy " + formMain.getMyArmy();
-                labelMyGold.Text = "Posiadane złoto " + formMain.getGold();
+                labelMyArmy.Text = "Posiadani wojownicy " + formMain.GetMyArmy();
+                labelMyGold.Text = "Posiadane złoto " + formMain.GetGold();
             }
             else
             {
