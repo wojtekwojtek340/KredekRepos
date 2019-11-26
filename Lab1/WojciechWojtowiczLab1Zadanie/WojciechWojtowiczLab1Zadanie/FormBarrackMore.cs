@@ -25,7 +25,7 @@ namespace WojciechWojtowiczLab1Zadanie
         }
 
         /// <summary>
-        /// konstuktor
+        /// konstuktor 
         /// </summary>
         /// <param name="_gold"></param>
         /// <param name="_myArmy"></param>
