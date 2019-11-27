@@ -47,7 +47,7 @@ namespace WojciechWojtowiczLab1Zadanie
         /// akcesor ustawiajacy wartosc złota
         /// </summary>
         /// <param name="_gold"></param>
-        public void setGold(int _gold)
+        public void SetGold(int _gold)
         {
             gold = _gold;
         }
@@ -56,7 +56,7 @@ namespace WojciechWojtowiczLab1Zadanie
         /// akcesor zwracajacy wartość złota
         /// </summary>
         /// <returns></returns>
-        public int getGold()
+        public int GetGold()
         {
             return gold;
         }
@@ -65,7 +65,7 @@ namespace WojciechWojtowiczLab1Zadanie
         /// akcesor ustawiajacy wartość armii
         /// </summary>
         /// <param name="_myArmy"></param>
-        public void setMyArmy(int _myArmy)
+        public void SetMyArmy(int _myArmy)
         {
             myArmy = _myArmy;
         }
@@ -74,16 +74,16 @@ namespace WojciechWojtowiczLab1Zadanie
         /// akcesor zwracajacy ilość armii
         /// </summary>
         /// <returns></returns>
-        public int getMyArmy()
+        public int GetMyArmy()
         {
             return myArmy;
         }
 
         /// <summary>
-        /// akcesor zwracajacy poziom koszar
+        /// akcesor zwracąjacy poziom koszar
         /// </summary>
         /// <returns></returns>
-        public int getBarrackLevel()
+        public int GetBarrackLevel()
         {
             return barrackLevel;
         }
