@@ -39,15 +39,5 @@ namespace WojciechWojtowiczLab1Zadanie
             labelGoldMineExtraction.Text = "Aktualne wydobycie " + extraction;
             labelGoldMineExtractionNext.Text = "Kolejne wydobycie " + (extraction + 10);
         }
-
-        /// <summary>
-        /// to było od poczatku
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
-        private void FormGoldMine_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }

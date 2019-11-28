@@ -34,15 +34,5 @@ namespace WojciechWojtowiczLab1Zadanie
             labelWallDefense.Text = "Współczynnik obrony " + ((wallLevel / 10) + 1);
             labelWallDefenseNext.Text = "Następny współczynnik " + (((wallLevel+1) / 10) + 1);
         }
-
-        /// <summary>
-        /// to było od poczatku
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
-        private void FormWallInfo_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }

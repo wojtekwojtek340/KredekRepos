@@ -38,17 +38,6 @@ namespace WojciechWojtowiczLab1Zadanie
         }
 
         /// <summary>
-        /// to było od poczatku
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
-        private void FormBarrackMore_Load(object sender, EventArgs e)
-        {
-
-        }
-
-
-        /// <summary>
         /// metoda oblicza ile złota potrzeba na rekrutacje wojska i wypisuje to w odpowiednim labelu
         /// </summary>
         /// <param name="sender"></param>

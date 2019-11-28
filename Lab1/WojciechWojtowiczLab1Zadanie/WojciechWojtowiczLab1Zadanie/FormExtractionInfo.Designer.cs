@@ -77,7 +77,6 @@
             this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "FormExtractionInfo";
             this.Text = "FormGoldMine";
-            this.Load += new System.EventHandler(this.FormGoldMine_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
