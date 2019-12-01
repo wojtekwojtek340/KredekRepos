@@ -1,0 +1,22 @@
+Mój program posida 2 klasy abstrakcyjne Fish oraz Enemies.
+
+Po Enemies dziedziczy FishingGuards, Bandit oraz EnemyFisher.
+Enemies posiada metodę abstrakcyją |abstract public void attack()|.
+Dla każdej klasy dziedziczącej metoda ta wykonuje się inaczej.
+Dla klasy FishingGuards metoda attack odejmuje graczowi pieniądze jezeli nie ma karty wędkarskiej lub posiada niewymiarową rybę.
+Dla klasy Bandit metoda attack zabiera graczowi pieniądze i ma 25% szansy na zabranie karty wędkarskiej.
+Dla kasy EnemyFisher metoda attack zabiera graczowi losową rybę z sieci.
+Jest to przyklad poliformizmu, czyli wielopostaciowości obiektów i ich zmienne zachowanie (np metoda attack) w zależności czym są.
+
+W zależności od losowania tworzę obiekt:
+Enemies enemy = new ( FishingGuards() lub Bandit() lub EnemyFisher() ) i używam go według moich potrzeb.
+
+Po Fish dziedziczy Carp, Pike oraz Bream
+Fish posiada 2 metody abstakcyjne.
+Pierwsza z nich |abstract public int GetProtectiveLenght()| zwraca pole protectiveLenght obiektu dla której uzyta jest ta metoda.
+Druga jest bardzo podobna |abstract public string GetProtectiveLenghtOfFish()| zwraca pole protectiveLenght z dopiskiem w postaci string.
+Tutaj polimorfizm objawia się gdy użyje tej metody dla obieku Bream.
+Bream nie posiada protectiveLenght wiec zamiast tego pola metoda zwraca w pierwszym przypadku 0 a w drugim sam napis.
+
+W zależności od losowania tworzę obiekt:
+Fish fish = new ( Bream() lub Pike() lub EnemyFisher() ) i uzywam go według swoich potrzeb.

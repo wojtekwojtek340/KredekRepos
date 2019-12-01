@@ -1,0 +1,24 @@
+Mój program jest symulatorem wędkarstwa.
+
+Atrybutami dostępnymi w grze są pieniądze, honor, oraz możliwość posiadania karty wędkarskiej.
+Pieniądze zdobywa się ze sprzedaży ryb. Ilość otrzymanych pieniędzy jest sumą długości i wagi sprzedanej ryby.
+Honor otrzymujemy gdy wypuścimy złowioną rybę. Ilość otrzymanych punktów honoru jest sumą długości i wagi wypuszczonej ryby.
+Kartę wędkarską możemy kupić w sklepie po uprzednim zdaniu egzaminu.
+Po rozpoczęciu nowej gry naszym oczom ukazuje się mapa z 3 jeziorami.
+Każde z jezior posiada inne cechy takie jak trudność złapania ryby oraz jej potencjalny rozmiar.
+Nie na każde jezioro można wejść od początku, niektóre wymagają odpowiedniej ilości honoru, a inne posiadania karty wędkarskiej.
+Po wejściu na jezioro należy zażucić wędkę a następnie klikać w wyskakujące na ekranie ryby.
+W pierwszej kolejności po złowieniu ryby decydujemy czy chcemy ją wypuścić czy wrzucić do sieci.
+Przeglądając sieć widzimy wszystkie złowione ryby, możemy zdecydować które chcemy sprzedać a które wypuścić.
+
+Zagrożenia:
+Podczas połowu może odwiedzić nas inny wędkarz i zabrać nam losowo jedną rybę z sieci.
+Podczas połowu może odwiedzić nas straż rybacka która da nam mandat jeżeli nie posiadamy karty wędkarskiej lub gdy posiadamy
+rybę posiadającą wymiar mniejszy niż wymiar ochronny.
+Podczas pobytu na mapie mogą napaść na nas bandyci, którzy zabierają nam pieniądze. Mają również 25% szans na zabranie karty wędkarskiej.
+
+Gra posiada możliwość zapisu jak i wczytania stanu gry.
+
+
+
+
