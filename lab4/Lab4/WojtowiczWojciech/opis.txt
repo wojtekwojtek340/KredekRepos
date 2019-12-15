@@ -1,0 +1,3 @@
+Rozbudowa programu z zajęć.
+Dodano tabele trenerów, sponsorów oraz pieniędzy wydanych przez sponsorów.
+Mozna dokonywać dodawanie, edycje , aktualizowanie, usuwanie dla dostępnych zasobów.
