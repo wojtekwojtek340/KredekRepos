@@ -1,0 +1,15 @@
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab4\Lab4\WojciechWojtowiczLab4Zadanie\WojciechWojtowiczLab4\bin\Debug\WojciechWojtowiczLab4.exe.config
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab4\Lab4\WojciechWojtowiczLab4Zadanie\WojciechWojtowiczLab4\bin\Debug\WojciechWojtowiczLab4.exe
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab4\Lab4\WojciechWojtowiczLab4Zadanie\WojciechWojtowiczLab4\bin\Debug\WojciechWojtowiczLab4.pdb
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab4\Lab4\WojciechWojtowiczLab4Zadanie\WojciechWojtowiczLab4\bin\Debug\EntityFramework.dll
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab4\Lab4\WojciechWojtowiczLab4Zadanie\WojciechWojtowiczLab4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab4\Lab4\WojciechWojtowiczLab4Zadanie\WojciechWojtowiczLab4\bin\Debug\EntityFramework.xml
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab4\Lab4\WojciechWojtowiczLab4Zadanie\WojciechWojtowiczLab4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab4\Lab4\WojciechWojtowiczLab4Zadanie\WojciechWojtowiczLab4\obj\Debug\WojciechWojtowiczLab4Zadanie.csprojAssemblyReference.cache
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab4\Lab4\WojciechWojtowiczLab4Zadanie\WojciechWojtowiczLab4\obj\Debug\WojciechWojtowiczLab4.FormMain.resources
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab4\Lab4\WojciechWojtowiczLab4Zadanie\WojciechWojtowiczLab4\obj\Debug\WojciechWojtowiczLab4.Properties.Resources.resources
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab4\Lab4\WojciechWojtowiczLab4Zadanie\WojciechWojtowiczLab4\obj\Debug\WojciechWojtowiczLab4Zadanie.csproj.GenerateResource.cache
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab4\Lab4\WojciechWojtowiczLab4Zadanie\WojciechWojtowiczLab4\obj\Debug\WojciechWojtowiczLab4Zadanie.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab4\Lab4\WojciechWojtowiczLab4Zadanie\WojciechWojtowiczLab4\obj\Debug\WojciechWojtowiczLab4Zadanie.csproj.CopyComplete
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab4\Lab4\WojciechWojtowiczLab4Zadanie\WojciechWojtowiczLab4\obj\Debug\WojciechWojtowiczLab4.exe
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab4\Lab4\WojciechWojtowiczLab4Zadanie\WojciechWojtowiczLab4\obj\Debug\WojciechWojtowiczLab4.pdb

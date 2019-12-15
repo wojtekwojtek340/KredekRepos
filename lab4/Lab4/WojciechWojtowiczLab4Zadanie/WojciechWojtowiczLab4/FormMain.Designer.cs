@@ -29,18 +29,18 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
+            this.labelId = new System.Windows.Forms.Label();
+            this.labelDate = new System.Windows.Forms.Label();
+            this.labelLastName = new System.Windows.Forms.Label();
+            this.labelName = new System.Windows.Forms.Label();
             this.buttonJumperAdd = new System.Windows.Forms.Button();
             this.dateTimePickerJumper = new System.Windows.Forms.DateTimePicker();
             this.textBoxJumperCountryId = new System.Windows.Forms.TextBox();
             this.textBoxJumperLastName = new System.Windows.Forms.TextBox();
             this.textBoxJumperFirstName = new System.Windows.Forms.TextBox();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
+            this.labelRecord = new System.Windows.Forms.Label();
+            this.labelName2 = new System.Windows.Forms.Label();
             this.buttonCountryAdd = new System.Windows.Forms.Button();
             this.textBoxCountryRecord = new System.Windows.Forms.TextBox();
             this.textBoxCountryName = new System.Windows.Forms.TextBox();
@@ -55,52 +55,52 @@
             this.buttonCountryUpdate = new System.Windows.Forms.Button();
             this.buttonCountryShow = new System.Windows.Forms.Button();
             this.panel3 = new System.Windows.Forms.Panel();
-            this.label5 = new System.Windows.Forms.Label();
+            this.labelId3 = new System.Windows.Forms.Label();
             this.textBoxUpdateJumperId = new System.Windows.Forms.TextBox();
-            this.label8 = new System.Windows.Forms.Label();
+            this.labelId6 = new System.Windows.Forms.Label();
             this.buttonJumperSaveChanges = new System.Windows.Forms.Button();
-            this.label9 = new System.Windows.Forms.Label();
+            this.labelDate3 = new System.Windows.Forms.Label();
             this.textBoxUpdateJumperLastName = new System.Windows.Forms.TextBox();
             this.textBoxUpdateCountryId = new System.Windows.Forms.TextBox();
             this.textBoxUpdateJumperFirstName = new System.Windows.Forms.TextBox();
             this.dateTimePickerUpdateJumper = new System.Windows.Forms.DateTimePicker();
-            this.label10 = new System.Windows.Forms.Label();
-            this.label11 = new System.Windows.Forms.Label();
+            this.labelName4 = new System.Windows.Forms.Label();
+            this.labelLastName3 = new System.Windows.Forms.Label();
             this.dataGridViewTrainers = new System.Windows.Forms.DataGridView();
             this.buttonJumpersShow = new System.Windows.Forms.Button();
             this.buttonTrainerEdit = new System.Windows.Forms.Button();
             this.buttonTrainerDelete = new System.Windows.Forms.Button();
             this.labelAllTrainers = new System.Windows.Forms.Label();
             this.panel4 = new System.Windows.Forms.Panel();
-            this.label14 = new System.Windows.Forms.Label();
-            this.label15 = new System.Windows.Forms.Label();
-            this.label16 = new System.Windows.Forms.Label();
-            this.label17 = new System.Windows.Forms.Label();
+            this.labelId2 = new System.Windows.Forms.Label();
+            this.labelDate2 = new System.Windows.Forms.Label();
+            this.labelLastName2 = new System.Windows.Forms.Label();
+            this.labelName3 = new System.Windows.Forms.Label();
             this.buttonTrainerAdd = new System.Windows.Forms.Button();
             this.dateTimePickerTrainer = new System.Windows.Forms.DateTimePicker();
             this.textBoxTrainerCountryId = new System.Windows.Forms.TextBox();
             this.textBoxTrainerLastName = new System.Windows.Forms.TextBox();
             this.textBoxTrainerFirstName = new System.Windows.Forms.TextBox();
             this.panel5 = new System.Windows.Forms.Panel();
-            this.label12 = new System.Windows.Forms.Label();
+            this.labelId4 = new System.Windows.Forms.Label();
             this.textBoxUpdateCountryyId = new System.Windows.Forms.TextBox();
             this.buttonCountrySaveChanges = new System.Windows.Forms.Button();
             this.textBoxUpdateCountryRecord = new System.Windows.Forms.TextBox();
             this.textBoxUpdateCountryName = new System.Windows.Forms.TextBox();
-            this.label19 = new System.Windows.Forms.Label();
-            this.label20 = new System.Windows.Forms.Label();
+            this.labelName5 = new System.Windows.Forms.Label();
+            this.labelRecord2 = new System.Windows.Forms.Label();
             this.panel6 = new System.Windows.Forms.Panel();
-            this.label13 = new System.Windows.Forms.Label();
+            this.labelId5 = new System.Windows.Forms.Label();
             this.textBoxUpdateTrainerId = new System.Windows.Forms.TextBox();
-            this.label18 = new System.Windows.Forms.Label();
+            this.labelId7 = new System.Windows.Forms.Label();
             this.buttonTrainerSaveChanges = new System.Windows.Forms.Button();
-            this.label21 = new System.Windows.Forms.Label();
+            this.labelDate4 = new System.Windows.Forms.Label();
             this.textBoxUpdateTrainerLastName = new System.Windows.Forms.TextBox();
             this.textBoxUpdateCountryIdTrainer = new System.Windows.Forms.TextBox();
             this.textBoxUpdateTrainerFirstName = new System.Windows.Forms.TextBox();
             this.dateTimePickerUpdateTrainer = new System.Windows.Forms.DateTimePicker();
-            this.label22 = new System.Windows.Forms.Label();
-            this.label23 = new System.Windows.Forms.Label();
+            this.labelName6 = new System.Windows.Forms.Label();
+            this.labelLastName4 = new System.Windows.Forms.Label();
             this.dataGridViewSponsors = new System.Windows.Forms.DataGridView();
             this.labelAllSponsors = new System.Windows.Forms.Label();
             this.panel7 = new System.Windows.Forms.Panel();
@@ -141,10 +141,10 @@
             // 
             // panel1
             // 
-            this.panel1.Controls.Add(this.label4);
-            this.panel1.Controls.Add(this.label3);
-            this.panel1.Controls.Add(this.label2);
-            this.panel1.Controls.Add(this.label1);
+            this.panel1.Controls.Add(this.labelId);
+            this.panel1.Controls.Add(this.labelDate);
+            this.panel1.Controls.Add(this.labelLastName);
+            this.panel1.Controls.Add(this.labelName);
             this.panel1.Controls.Add(this.buttonJumperAdd);
             this.panel1.Controls.Add(this.dateTimePickerJumper);
             this.panel1.Controls.Add(this.textBoxJumperCountryId);
@@ -155,41 +155,41 @@
             this.panel1.Size = new System.Drawing.Size(303, 167);
             this.panel1.TabIndex = 0;
             // 
-            // label4
+            // labelId
             // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(31, 84);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(42, 13);
-            this.label4.TabIndex = 9;
-            this.label4.Text = "Id kraju";
+            this.labelId.AutoSize = true;
+            this.labelId.Location = new System.Drawing.Point(31, 84);
+            this.labelId.Name = "labelId";
+            this.labelId.Size = new System.Drawing.Size(42, 13);
+            this.labelId.TabIndex = 9;
+            this.labelId.Text = "Id kraju";
             // 
-            // label3
+            // labelDate
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(31, 61);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(67, 13);
-            this.label3.TabIndex = 8;
-            this.label3.Text = "Data urodzin";
+            this.labelDate.AutoSize = true;
+            this.labelDate.Location = new System.Drawing.Point(31, 61);
+            this.labelDate.Name = "labelDate";
+            this.labelDate.Size = new System.Drawing.Size(67, 13);
+            this.labelDate.TabIndex = 8;
+            this.labelDate.Text = "Data urodzin";
             // 
-            // label2
+            // labelLastName
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(31, 32);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(53, 13);
-            this.label2.TabIndex = 7;
-            this.label2.Text = "Nazwisko";
+            this.labelLastName.AutoSize = true;
+            this.labelLastName.Location = new System.Drawing.Point(31, 32);
+            this.labelLastName.Name = "labelLastName";
+            this.labelLastName.Size = new System.Drawing.Size(53, 13);
+            this.labelLastName.TabIndex = 7;
+            this.labelLastName.Text = "Nazwisko";
             // 
-            // label1
+            // labelName
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(31, 6);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(26, 13);
-            this.label1.TabIndex = 6;
-            this.label1.Text = "Imię";
+            this.labelName.AutoSize = true;
+            this.labelName.Location = new System.Drawing.Point(31, 6);
+            this.labelName.Name = "labelName";
+            this.labelName.Size = new System.Drawing.Size(26, 13);
+            this.labelName.TabIndex = 6;
+            this.labelName.Text = "Imię";
             // 
             // buttonJumperAdd
             // 
@@ -231,8 +231,8 @@
             // 
             // panel2
             // 
-            this.panel2.Controls.Add(this.label7);
-            this.panel2.Controls.Add(this.label6);
+            this.panel2.Controls.Add(this.labelRecord);
+            this.panel2.Controls.Add(this.labelName2);
             this.panel2.Controls.Add(this.buttonCountryAdd);
             this.panel2.Controls.Add(this.textBoxCountryRecord);
             this.panel2.Controls.Add(this.textBoxCountryName);
@@ -241,23 +241,23 @@
             this.panel2.Size = new System.Drawing.Size(303, 167);
             this.panel2.TabIndex = 1;
             // 
-            // label7
+            // labelRecord
             // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(83, 75);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(68, 13);
-            this.label7.TabIndex = 12;
-            this.label7.Text = "Rekord kraju";
+            this.labelRecord.AutoSize = true;
+            this.labelRecord.Location = new System.Drawing.Point(83, 75);
+            this.labelRecord.Name = "labelRecord";
+            this.labelRecord.Size = new System.Drawing.Size(68, 13);
+            this.labelRecord.TabIndex = 12;
+            this.labelRecord.Text = "Rekord kraju";
             // 
-            // label6
+            // labelName2
             // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(83, 34);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(66, 13);
-            this.label6.TabIndex = 11;
-            this.label6.Text = "Nazwa kraju";
+            this.labelName2.AutoSize = true;
+            this.labelName2.Location = new System.Drawing.Point(83, 34);
+            this.labelName2.Name = "labelName2";
+            this.labelName2.Size = new System.Drawing.Size(66, 13);
+            this.labelName2.TabIndex = 11;
+            this.labelName2.Text = "Nazwa kraju";
             // 
             // buttonCountryAdd
             // 
@@ -395,32 +395,32 @@
             // 
             this.panel3.BackColor = System.Drawing.Color.GhostWhite;
             this.panel3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel3.Controls.Add(this.label5);
+            this.panel3.Controls.Add(this.labelId3);
             this.panel3.Controls.Add(this.textBoxUpdateJumperId);
-            this.panel3.Controls.Add(this.label8);
+            this.panel3.Controls.Add(this.labelId6);
             this.panel3.Controls.Add(this.buttonJumperSaveChanges);
-            this.panel3.Controls.Add(this.label9);
+            this.panel3.Controls.Add(this.labelDate3);
             this.panel3.Controls.Add(this.textBoxUpdateJumperLastName);
             this.panel3.Controls.Add(this.textBoxUpdateCountryId);
             this.panel3.Controls.Add(this.textBoxUpdateJumperFirstName);
             this.panel3.Controls.Add(this.dateTimePickerUpdateJumper);
-            this.panel3.Controls.Add(this.label10);
-            this.panel3.Controls.Add(this.label11);
+            this.panel3.Controls.Add(this.labelName4);
+            this.panel3.Controls.Add(this.labelLastName3);
             this.panel3.Location = new System.Drawing.Point(15, 508);
             this.panel3.Margin = new System.Windows.Forms.Padding(2);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(352, 265);
             this.panel3.TabIndex = 34;
             // 
-            // label5
+            // labelId3
             // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(47, 19);
-            this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(16, 13);
-            this.label5.TabIndex = 34;
-            this.label5.Text = "Id";
+            this.labelId3.AutoSize = true;
+            this.labelId3.Location = new System.Drawing.Point(47, 19);
+            this.labelId3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.labelId3.Name = "labelId3";
+            this.labelId3.Size = new System.Drawing.Size(16, 13);
+            this.labelId3.TabIndex = 34;
+            this.labelId3.Text = "Id";
             // 
             // textBoxUpdateJumperId
             // 
@@ -430,15 +430,15 @@
             this.textBoxUpdateJumperId.Size = new System.Drawing.Size(126, 20);
             this.textBoxUpdateJumperId.TabIndex = 33;
             // 
-            // label8
+            // labelId6
             // 
-            this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(47, 164);
-            this.label8.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(42, 13);
-            this.label8.TabIndex = 27;
-            this.label8.Text = "Id kraju";
+            this.labelId6.AutoSize = true;
+            this.labelId6.Location = new System.Drawing.Point(47, 164);
+            this.labelId6.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.labelId6.Name = "labelId6";
+            this.labelId6.Size = new System.Drawing.Size(42, 13);
+            this.labelId6.TabIndex = 27;
+            this.labelId6.Text = "Id kraju";
             // 
             // buttonJumperSaveChanges
             // 
@@ -451,15 +451,15 @@
             this.buttonJumperSaveChanges.UseVisualStyleBackColor = true;
             this.buttonJumperSaveChanges.Click += new System.EventHandler(this.buttonJumperSaveChanges_Click);
             // 
-            // label9
+            // labelDate3
             // 
-            this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(47, 134);
-            this.label9.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(67, 13);
-            this.label9.TabIndex = 26;
-            this.label9.Text = "Data urodzin";
+            this.labelDate3.AutoSize = true;
+            this.labelDate3.Location = new System.Drawing.Point(47, 134);
+            this.labelDate3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.labelDate3.Name = "labelDate3";
+            this.labelDate3.Size = new System.Drawing.Size(67, 13);
+            this.labelDate3.TabIndex = 26;
+            this.labelDate3.Text = "Data urodzin";
             // 
             // textBoxUpdateJumperLastName
             // 
@@ -493,25 +493,25 @@
             this.dateTimePickerUpdateJumper.Size = new System.Drawing.Size(126, 20);
             this.dateTimePickerUpdateJumper.TabIndex = 28;
             // 
-            // label10
+            // labelName4
             // 
-            this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(47, 58);
-            this.label10.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(26, 13);
-            this.label10.TabIndex = 24;
-            this.label10.Text = "Imię";
+            this.labelName4.AutoSize = true;
+            this.labelName4.Location = new System.Drawing.Point(47, 58);
+            this.labelName4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.labelName4.Name = "labelName4";
+            this.labelName4.Size = new System.Drawing.Size(26, 13);
+            this.labelName4.TabIndex = 24;
+            this.labelName4.Text = "Imię";
             // 
-            // label11
+            // labelLastName3
             // 
-            this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(47, 100);
-            this.label11.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(53, 13);
-            this.label11.TabIndex = 25;
-            this.label11.Text = "Nazwisko";
+            this.labelLastName3.AutoSize = true;
+            this.labelLastName3.Location = new System.Drawing.Point(47, 100);
+            this.labelLastName3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.labelLastName3.Name = "labelLastName3";
+            this.labelLastName3.Size = new System.Drawing.Size(53, 13);
+            this.labelLastName3.TabIndex = 25;
+            this.labelLastName3.Text = "Nazwisko";
             // 
             // dataGridViewTrainers
             // 
@@ -569,10 +569,10 @@
             // 
             // panel4
             // 
-            this.panel4.Controls.Add(this.label14);
-            this.panel4.Controls.Add(this.label15);
-            this.panel4.Controls.Add(this.label16);
-            this.panel4.Controls.Add(this.label17);
+            this.panel4.Controls.Add(this.labelId2);
+            this.panel4.Controls.Add(this.labelDate2);
+            this.panel4.Controls.Add(this.labelLastName2);
+            this.panel4.Controls.Add(this.labelName3);
             this.panel4.Controls.Add(this.buttonTrainerAdd);
             this.panel4.Controls.Add(this.dateTimePickerTrainer);
             this.panel4.Controls.Add(this.textBoxTrainerCountryId);
@@ -583,41 +583,41 @@
             this.panel4.Size = new System.Drawing.Size(303, 167);
             this.panel4.TabIndex = 12;
             // 
-            // label14
+            // labelId2
             // 
-            this.label14.AutoSize = true;
-            this.label14.Location = new System.Drawing.Point(31, 84);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(42, 13);
-            this.label14.TabIndex = 9;
-            this.label14.Text = "Id kraju";
+            this.labelId2.AutoSize = true;
+            this.labelId2.Location = new System.Drawing.Point(31, 84);
+            this.labelId2.Name = "labelId2";
+            this.labelId2.Size = new System.Drawing.Size(42, 13);
+            this.labelId2.TabIndex = 9;
+            this.labelId2.Text = "Id kraju";
             // 
-            // label15
+            // labelDate2
             // 
-            this.label15.AutoSize = true;
-            this.label15.Location = new System.Drawing.Point(31, 61);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(67, 13);
-            this.label15.TabIndex = 8;
-            this.label15.Text = "Data urodzin";
+            this.labelDate2.AutoSize = true;
+            this.labelDate2.Location = new System.Drawing.Point(31, 61);
+            this.labelDate2.Name = "labelDate2";
+            this.labelDate2.Size = new System.Drawing.Size(67, 13);
+            this.labelDate2.TabIndex = 8;
+            this.labelDate2.Text = "Data urodzin";
             // 
-            // label16
+            // labelLastName2
             // 
-            this.label16.AutoSize = true;
-            this.label16.Location = new System.Drawing.Point(31, 32);
-            this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(53, 13);
-            this.label16.TabIndex = 7;
-            this.label16.Text = "Nazwisko";
+            this.labelLastName2.AutoSize = true;
+            this.labelLastName2.Location = new System.Drawing.Point(31, 32);
+            this.labelLastName2.Name = "labelLastName2";
+            this.labelLastName2.Size = new System.Drawing.Size(53, 13);
+            this.labelLastName2.TabIndex = 7;
+            this.labelLastName2.Text = "Nazwisko";
             // 
-            // label17
+            // labelName3
             // 
-            this.label17.AutoSize = true;
-            this.label17.Location = new System.Drawing.Point(31, 6);
-            this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(26, 13);
-            this.label17.TabIndex = 6;
-            this.label17.Text = "Imię";
+            this.labelName3.AutoSize = true;
+            this.labelName3.Location = new System.Drawing.Point(31, 6);
+            this.labelName3.Name = "labelName3";
+            this.labelName3.Size = new System.Drawing.Size(26, 13);
+            this.labelName3.TabIndex = 6;
+            this.labelName3.Text = "Imię";
             // 
             // buttonTrainerAdd
             // 
@@ -661,28 +661,28 @@
             // 
             this.panel5.BackColor = System.Drawing.Color.GhostWhite;
             this.panel5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel5.Controls.Add(this.label12);
+            this.panel5.Controls.Add(this.labelId4);
             this.panel5.Controls.Add(this.textBoxUpdateCountryyId);
             this.panel5.Controls.Add(this.buttonCountrySaveChanges);
             this.panel5.Controls.Add(this.textBoxUpdateCountryRecord);
             this.panel5.Controls.Add(this.textBoxUpdateCountryName);
-            this.panel5.Controls.Add(this.label19);
-            this.panel5.Controls.Add(this.label20);
+            this.panel5.Controls.Add(this.labelName5);
+            this.panel5.Controls.Add(this.labelRecord2);
             this.panel5.Location = new System.Drawing.Point(380, 508);
             this.panel5.Margin = new System.Windows.Forms.Padding(2);
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(302, 265);
             this.panel5.TabIndex = 40;
             // 
-            // label12
+            // labelId4
             // 
-            this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(109, 5);
-            this.label12.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(16, 13);
-            this.label12.TabIndex = 34;
-            this.label12.Text = "Id";
+            this.labelId4.AutoSize = true;
+            this.labelId4.Location = new System.Drawing.Point(109, 5);
+            this.labelId4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.labelId4.Name = "labelId4";
+            this.labelId4.Size = new System.Drawing.Size(16, 13);
+            this.labelId4.TabIndex = 34;
+            this.labelId4.Text = "Id";
             // 
             // textBoxUpdateCountryyId
             // 
@@ -719,56 +719,56 @@
             this.textBoxUpdateCountryName.Size = new System.Drawing.Size(126, 20);
             this.textBoxUpdateCountryName.TabIndex = 29;
             // 
-            // label19
+            // labelName5
             // 
-            this.label19.AutoSize = true;
-            this.label19.Location = new System.Drawing.Point(73, 44);
-            this.label19.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(66, 13);
-            this.label19.TabIndex = 24;
-            this.label19.Text = "Nazwa kraju";
+            this.labelName5.AutoSize = true;
+            this.labelName5.Location = new System.Drawing.Point(73, 44);
+            this.labelName5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.labelName5.Name = "labelName5";
+            this.labelName5.Size = new System.Drawing.Size(66, 13);
+            this.labelName5.TabIndex = 24;
+            this.labelName5.Text = "Nazwa kraju";
             // 
-            // label20
+            // labelRecord2
             // 
-            this.label20.AutoSize = true;
-            this.label20.Location = new System.Drawing.Point(73, 86);
-            this.label20.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(68, 13);
-            this.label20.TabIndex = 25;
-            this.label20.Text = "Rekord kraju";
+            this.labelRecord2.AutoSize = true;
+            this.labelRecord2.Location = new System.Drawing.Point(73, 86);
+            this.labelRecord2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.labelRecord2.Name = "labelRecord2";
+            this.labelRecord2.Size = new System.Drawing.Size(68, 13);
+            this.labelRecord2.TabIndex = 25;
+            this.labelRecord2.Text = "Rekord kraju";
             // 
             // panel6
             // 
             this.panel6.BackColor = System.Drawing.Color.GhostWhite;
             this.panel6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel6.Controls.Add(this.label13);
+            this.panel6.Controls.Add(this.labelId5);
             this.panel6.Controls.Add(this.textBoxUpdateTrainerId);
-            this.panel6.Controls.Add(this.label18);
+            this.panel6.Controls.Add(this.labelId7);
             this.panel6.Controls.Add(this.buttonTrainerSaveChanges);
-            this.panel6.Controls.Add(this.label21);
+            this.panel6.Controls.Add(this.labelDate4);
             this.panel6.Controls.Add(this.textBoxUpdateTrainerLastName);
             this.panel6.Controls.Add(this.textBoxUpdateCountryIdTrainer);
             this.panel6.Controls.Add(this.textBoxUpdateTrainerFirstName);
             this.panel6.Controls.Add(this.dateTimePickerUpdateTrainer);
-            this.panel6.Controls.Add(this.label22);
-            this.panel6.Controls.Add(this.label23);
+            this.panel6.Controls.Add(this.labelName6);
+            this.panel6.Controls.Add(this.labelLastName4);
             this.panel6.Location = new System.Drawing.Point(748, 508);
             this.panel6.Margin = new System.Windows.Forms.Padding(2);
             this.panel6.Name = "panel6";
             this.panel6.Size = new System.Drawing.Size(302, 265);
             this.panel6.TabIndex = 41;
             // 
-            // label13
+            // labelId5
             // 
-            this.label13.AutoSize = true;
-            this.label13.Location = new System.Drawing.Point(109, 5);
-            this.label13.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(16, 13);
-            this.label13.TabIndex = 34;
-            this.label13.Text = "Id";
+            this.labelId5.AutoSize = true;
+            this.labelId5.Location = new System.Drawing.Point(109, 5);
+            this.labelId5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.labelId5.Name = "labelId5";
+            this.labelId5.Size = new System.Drawing.Size(16, 13);
+            this.labelId5.TabIndex = 34;
+            this.labelId5.Text = "Id";
             // 
             // textBoxUpdateTrainerId
             // 
@@ -778,15 +778,15 @@
             this.textBoxUpdateTrainerId.Size = new System.Drawing.Size(126, 20);
             this.textBoxUpdateTrainerId.TabIndex = 33;
             // 
-            // label18
+            // labelId7
             // 
-            this.label18.AutoSize = true;
-            this.label18.Location = new System.Drawing.Point(82, 150);
-            this.label18.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(42, 13);
-            this.label18.TabIndex = 27;
-            this.label18.Text = "Id kraju";
+            this.labelId7.AutoSize = true;
+            this.labelId7.Location = new System.Drawing.Point(82, 150);
+            this.labelId7.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.labelId7.Name = "labelId7";
+            this.labelId7.Size = new System.Drawing.Size(42, 13);
+            this.labelId7.TabIndex = 27;
+            this.labelId7.Text = "Id kraju";
             // 
             // buttonTrainerSaveChanges
             // 
@@ -799,15 +799,15 @@
             this.buttonTrainerSaveChanges.UseVisualStyleBackColor = true;
             this.buttonTrainerSaveChanges.Click += new System.EventHandler(this.buttonTrainerSaveChanges_Click);
             // 
-            // label21
+            // labelDate4
             // 
-            this.label21.AutoSize = true;
-            this.label21.Location = new System.Drawing.Point(56, 120);
-            this.label21.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(67, 13);
-            this.label21.TabIndex = 26;
-            this.label21.Text = "Data urodzin";
+            this.labelDate4.AutoSize = true;
+            this.labelDate4.Location = new System.Drawing.Point(56, 120);
+            this.labelDate4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.labelDate4.Name = "labelDate4";
+            this.labelDate4.Size = new System.Drawing.Size(67, 13);
+            this.labelDate4.TabIndex = 26;
+            this.labelDate4.Text = "Data urodzin";
             // 
             // textBoxUpdateTrainerLastName
             // 
@@ -841,25 +841,25 @@
             this.dateTimePickerUpdateTrainer.Size = new System.Drawing.Size(126, 20);
             this.dateTimePickerUpdateTrainer.TabIndex = 28;
             // 
-            // label22
+            // labelName6
             // 
-            this.label22.AutoSize = true;
-            this.label22.Location = new System.Drawing.Point(98, 45);
-            this.label22.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(26, 13);
-            this.label22.TabIndex = 24;
-            this.label22.Text = "Imię";
+            this.labelName6.AutoSize = true;
+            this.labelName6.Location = new System.Drawing.Point(98, 45);
+            this.labelName6.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.labelName6.Name = "labelName6";
+            this.labelName6.Size = new System.Drawing.Size(26, 13);
+            this.labelName6.TabIndex = 24;
+            this.labelName6.Text = "Imię";
             // 
-            // label23
+            // labelLastName4
             // 
-            this.label23.AutoSize = true;
-            this.label23.Location = new System.Drawing.Point(73, 86);
-            this.label23.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(53, 13);
-            this.label23.TabIndex = 25;
-            this.label23.Text = "Nazwisko";
+            this.labelLastName4.AutoSize = true;
+            this.labelLastName4.Location = new System.Drawing.Point(73, 86);
+            this.labelLastName4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.labelLastName4.Name = "labelLastName4";
+            this.labelLastName4.Size = new System.Drawing.Size(53, 13);
+            this.labelLastName4.TabIndex = 25;
+            this.labelLastName4.Text = "Nazwisko";
             // 
             // dataGridViewSponsors
             // 
@@ -1172,18 +1172,18 @@
         #endregion
 
         private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label labelId;
+        private System.Windows.Forms.Label labelDate;
+        private System.Windows.Forms.Label labelLastName;
+        private System.Windows.Forms.Label labelName;
         private System.Windows.Forms.Button buttonJumperAdd;
         private System.Windows.Forms.DateTimePicker dateTimePickerJumper;
         private System.Windows.Forms.TextBox textBoxJumperCountryId;
         private System.Windows.Forms.TextBox textBoxJumperLastName;
         private System.Windows.Forms.TextBox textBoxJumperFirstName;
         private System.Windows.Forms.Panel panel2;
-        private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label labelRecord;
+        private System.Windows.Forms.Label labelName2;
         private System.Windows.Forms.Button buttonCountryAdd;
         private System.Windows.Forms.TextBox textBoxCountryRecord;
         private System.Windows.Forms.TextBox textBoxCountryName;
@@ -1198,52 +1198,52 @@
         private System.Windows.Forms.Button buttonCountryUpdate;
         private System.Windows.Forms.Button buttonCountryShow;
         private System.Windows.Forms.Panel panel3;
-        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label labelId3;
         private System.Windows.Forms.TextBox textBoxUpdateJumperId;
-        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Label labelId6;
         private System.Windows.Forms.Button buttonJumperSaveChanges;
-        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.Label labelDate3;
         private System.Windows.Forms.TextBox textBoxUpdateJumperLastName;
         private System.Windows.Forms.TextBox textBoxUpdateCountryId;
         private System.Windows.Forms.TextBox textBoxUpdateJumperFirstName;
         private System.Windows.Forms.DateTimePicker dateTimePickerUpdateJumper;
-        private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.Label labelName4;
+        private System.Windows.Forms.Label labelLastName3;
         private System.Windows.Forms.DataGridView dataGridViewTrainers;
         private System.Windows.Forms.Button buttonJumpersShow;
         private System.Windows.Forms.Button buttonTrainerEdit;
         private System.Windows.Forms.Button buttonTrainerDelete;
         private System.Windows.Forms.Label labelAllTrainers;
         private System.Windows.Forms.Panel panel4;
-        private System.Windows.Forms.Label label14;
-        private System.Windows.Forms.Label label15;
-        private System.Windows.Forms.Label label16;
-        private System.Windows.Forms.Label label17;
+        private System.Windows.Forms.Label labelId2;
+        private System.Windows.Forms.Label labelDate2;
+        private System.Windows.Forms.Label labelLastName2;
+        private System.Windows.Forms.Label labelName3;
         private System.Windows.Forms.Button buttonTrainerAdd;
         private System.Windows.Forms.DateTimePicker dateTimePickerTrainer;
         private System.Windows.Forms.TextBox textBoxTrainerCountryId;
         private System.Windows.Forms.TextBox textBoxTrainerLastName;
         private System.Windows.Forms.TextBox textBoxTrainerFirstName;
         private System.Windows.Forms.Panel panel5;
-        private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.Label labelId4;
         private System.Windows.Forms.TextBox textBoxUpdateCountryyId;
         private System.Windows.Forms.Button buttonCountrySaveChanges;
         private System.Windows.Forms.TextBox textBoxUpdateCountryRecord;
         private System.Windows.Forms.TextBox textBoxUpdateCountryName;
-        private System.Windows.Forms.Label label19;
-        private System.Windows.Forms.Label label20;
+        private System.Windows.Forms.Label labelName5;
+        private System.Windows.Forms.Label labelRecord2;
         private System.Windows.Forms.Panel panel6;
-        private System.Windows.Forms.Label label13;
+        private System.Windows.Forms.Label labelId5;
         private System.Windows.Forms.TextBox textBoxUpdateTrainerId;
-        private System.Windows.Forms.Label label18;
+        private System.Windows.Forms.Label labelId7;
         private System.Windows.Forms.Button buttonTrainerSaveChanges;
-        private System.Windows.Forms.Label label21;
+        private System.Windows.Forms.Label labelDate4;
         private System.Windows.Forms.TextBox textBoxUpdateTrainerLastName;
         private System.Windows.Forms.TextBox textBoxUpdateCountryIdTrainer;
         private System.Windows.Forms.TextBox textBoxUpdateTrainerFirstName;
         private System.Windows.Forms.DateTimePicker dateTimePickerUpdateTrainer;
-        private System.Windows.Forms.Label label22;
-        private System.Windows.Forms.Label label23;
+        private System.Windows.Forms.Label labelName6;
+        private System.Windows.Forms.Label labelLastName4;
         private System.Windows.Forms.DataGridView dataGridViewSponsors;
         private System.Windows.Forms.Label labelAllSponsors;
         private System.Windows.Forms.Panel panel7;
