@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <!-- metadane o wykorzystywanym kodowaniu znaków -->
+    <meta charset="utf-8" />
+
+    <!-- metadane mówiące o tym w jaki sposób renderować strone na IE.  -->
+    <!-- W tym przypadku renderujemy strone wersji interner explorer edge -->
+    <meta http-equiv="X-UA-Compatible" content="ie-edge,chrome=1" />
+
+    <!-- ustalenie szerokości ekranu na szerkość ekranu urządzenia -->
+    <meta name="viewport" content="width=device-width, initial-scale = 1.0" />
+
+    <!-- tytuł dokumentu, wyświetlany w zakłdce, na pasku kart przeglądarki -->
+    <title>Moja Strona</title>
+
+    <!-- Import/"Zalinkowanie" pliku stylów do strony  -->
+    <link rel="stylesheet" href="../styles/style.css" />
+
+    <!-- Import/"Zalinkowanie" pliku javaScript do strony  -->
+    <script src="../scripts/skrypt.js"></script>
+
+    <!-- Import/"Zalinkowanie" czcionek google fonts do strony  -->
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,900&display=swap&subset=latin-ext" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Patrick+Hand&display=swap&subset=latin-ext" rel="stylesheet">
+</head>
+
+<!-- na załadowanie strony wykonywane są 3 funckje z JS  -->
+<body onload="clock(), heroName(), load()">
+
+    <!-- w tym divie umieszczam wszystkie pozostałe -->
+    <div id="container">
+
+        <!-- logo na stronie -->
+        <div id="logo">
+            Rick And Morty
+        </div>
+
+        <!-- nazwa osoby przeglądającej wpisanej na stronie głownej -->
+        <div id="myName">Anonim</div>
+
+        <!-- div ktory posiada obiekty slużące do poruszania sie pomiedzy różnymi podstronami -->
+        <!-- jest tu wyświetlany również zegar -->
+        <div id="menu">
+            <div class="option">
+                <a href="../index.html" title="Strona Główna">Strona Główna</a>
+            </div>
+            <div class="option">
+                <a href="strona1.html" title="Opis Postaci">Postacie</a>
+            </div>
+            <div class="option">
+                <a href="strona2.html" title="Informacje o serialu">O serialu</a>
+            </div>
+            <div class="option">
+                <a href="strona3.html" title="Gra w zgadywanie postaci">Gra</a>
+            </div>
+            <div id="clock"></div>
+            <div style="clear:both;"></div>
+        </div>
+
+        <!-- div w ktorym jest wyświetlane są informacje na temat gry -->
+        <div class="title">
+            <h2>Zgadnij która to postać!</h2>
+            <h1 id="heroText">blad</h1>
+            <h4 id="message">Wybierz odpowiednią postać!</h4>
+        </div>
+
+        <!-- wyświetlane są obrazki do zgadnięcia -->
+        <div class="boxes">
+            <div class="box"></div>
+            <div class="box"></div>
+            <div class="box"></div>
+        </div>
+
+        <!-- stopka -->
+        <div id="footer">
+            Wszelkie prawa zastrzeżone &copy;
+        </div>
+    </div>
+
+    <!-- Zaimportowanie/zalinkowanie skryptu do strony -->
+    <script charset="utf-8" src="../scripts./skrypt2.js"></script>
+</body>
+</html>

@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <!-- metadane o wykorzystywanym kodowaniu znaków -->
+    <meta charset="utf-8" />
+
+    <!-- metadane mówiące o tym w jaki sposób renderować strone na IE.  -->
+    <!-- W tym przypadku renderujemy strone wersji interner explorer edge -->
+    <meta http-equiv="X-UA-Compatible" content="ie-edge,chrome=1" />
+
+    <!-- ustalenie szerokości ekranu na szerkość ekranu urządzenia -->
+    <meta name="viewport" content="width=device-width, initial-scale = 1.0" />
+
+    <!-- tytuł dokumentu, wyświetlany w zakłdce, na pasku kart przeglądarki -->
+    <title>Moja Strona</title>
+
+    <!-- Import/"Zalinkowanie" pliku stylów do strony  -->
+    <link rel="stylesheet" href="styles/style.css" />
+
+    <!-- Import/"Zalinkowanie" pliku javaScript do strony  -->
+    <script src="scripts/skrypt.js"></script>
+
+    <!-- Import/"Zalinkowanie" czcionek google fonts do strony  -->
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,900&display=swap&subset=latin-ext" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Patrick+Hand&display=swap&subset=latin-ext" rel="stylesheet">
+
+</head>
+
+<!-- na załadowanie strony wykonywane są 2 funckje z JS  -->
+<body onload="clock(),load()">
+
+    <!-- w tym divie umieszczam wszystkie pozostałe -->
+    <div id="container">
+
+        <!-- logo na stronie -->
+        <div id="logo">
+            Rick And Morty
+        </div>
+
+        <!-- div służący do wpisania swojej nazwy w przeglądarce -->
+        <div id="login">
+            <div id="getName">Podaj imie:</div>
+            <input id="box" type="text" />
+            <input type="submit" value="Dodaj" onclick="addName()" />
+            <div id="myName">Anonim</div>
+        </div>
+
+        <!-- div ktory posiada obiekty slużące do poruszania sie pomiedzy różnymi podstronami -->
+        <!-- jest tu wyświetlany również zegar -->
+        <div id="menu">
+            <div class="option">
+                <a href="index.html" title="Strona Główna">Strona Główna</a>
+            </div>
+            <div class="option">
+                <a href="pages/strona1.html" title="Opis Postaci">Postacie</a>
+            </div>
+            <div class="option">
+                <a href="pages/strona2.html" title="Informacje o serialu">O serialu</a>
+            </div>
+            <div class="option">
+                <a href="pages/strona3.html" title="Gra w zgadywanie postaci">Gra</a>
+            </div>
+            <div id="clock"></div>
+            <div style="clear:both;"></div>
+        </div>
+
+        <!-- div w ktorym wyśiwetlany jest obrazek i cytat z serialu -->
+        <div id="topbar">
+            <div id="topbarL">
+                <img src="pictures/rick1.jpg" height="200" width="200" />
+            </div>
+            <div id="topbarR">
+                <h3>Cytat z serialu:</h3>
+                Rick – Słuchaj, Jerry. Ja-ja-ja nie chcę przekraczać żadnych granic czy coś. To twój dom. Twój świat. Jesteś prawdziwym Juliuszem Cezarem, ale powiem ci, co myślę na temat szkoły, Jerry. To strata czasu. Kupa biegających ludzi bez celu i zderzających się ze sobą. Ko-ko-koleś z przodu pyta: „Ile jest dwa plus dwa?”, a ludzie z tyłu odpowiadają „cztery”. Po-po-potem dzwoni dzwonek, dają ci kartonik mleka i kartkę papieru i mówią ci, że możesz iść kupę czy coś. To nie jest miejsce dla mądrych, Jerry. Ja wiem, że to nie jest popularna opinia, ale tak właśnie myślę.
+            </div>
+            <div style="clear:both;"></div>
+        </div>
+
+        <!-- div w ktorym wyśiwetlany jest tekst na stronie -->
+        <div id="content">
+            Rick i Morty – amerykański animowany serial telewizyjny dla starszej widowni tworzony przez Justina Roilanda oraz Dana Harmona dla Adult Swim. Produkcja w oryginalnym zamyśle miała być parodią filmu Powrót do przyszłości, stworzoną przez Roilanda na potrzeby festiwalu filmowego Channel 101.
+        </div>
+
+        <!-- stopka -->
+        <div id="footer">
+            Wszelkie prawa zastrzeżone &copy;
+        </div>
+    </div>
+</body>
+</html>

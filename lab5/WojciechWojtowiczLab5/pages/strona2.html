@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <!-- metadane o wykorzystywanym kodowaniu znaków -->
+    <meta charset="utf-8" />
+
+    <!-- metadane mówiące o tym w jaki sposób renderować strone na IE.  -->
+    <!-- W tym przypadku renderujemy strone wersji interner explorer edge -->
+    <meta http-equiv="X-UA-Compatible" content="ie-edge,chrome=1" />
+
+    <!-- ustalenie szerokości ekranu na szerkość ekranu urządzenia -->
+    <meta name="viewport" content="width=device-width, initial-scale = 1.0" />
+
+    <!-- tytuł dokumentu, wyświetlany w zakłdce, na pasku kart przeglądarki -->
+    <title>Moja Strona</title>
+
+    <!-- Import/"Zalinkowanie" biblioteki jQuery do strony  -->
+    <script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+
+    <!-- Import/"Zalinkowanie" pliku stylów do strony  -->
+    <link rel="stylesheet" href="../styles/style.css" />
+
+    <!-- Import/"Zalinkowanie" pliku javaScript do strony  -->
+    <script src="../scripts/skrypt.js"></script>
+
+    <!-- Import/"Zalinkowanie" czcionek google fonts do strony  -->
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,900&display=swap&subset=latin-ext" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Patrick+Hand&display=swap&subset=latin-ext" rel="stylesheet">
+</head>
+
+<!-- na załadowanie strony wykonywane są 2 funckje z JS  -->
+<body onload="clock(), changePicture(), load()">
+
+    <!-- w tym divie umieszczam wszystkie pozostałe -->
+    <div id="container">
+
+        <!-- logo na stronie -->
+        <div id="logo">
+            Rick And Morty
+        </div>
+
+        <!-- nazwa osoby przeglądającej wpisanej na stronie głownej -->
+        <div id="myName">Anonim</div>
+
+        <!-- div ktory posiada obiekty slużące do poruszania sie pomiedzy różnymi podstronami -->
+        <!-- jest tu wyświetlany również zegar -->
+        <div id="menu">
+            <div class="option">
+                <a href="../index.html" title="Strona Główna">Strona Główna</a>
+            </div>
+            <div class="option">
+                <a href="strona1.html" title="Opis Postaci">Postacie</a>
+            </div>
+            <div class="option">
+                <a href="strona2.html" title="Informacje o serialu">O serialu</a>
+            </div>
+            <div class="option">
+                <a href="strona3.html" title="Gra w zgadywanie postaci">Gra</a>
+            </div>
+            <div id="clock"></div>
+            <div style="clear:both;"></div>
+        </div>
+
+        <!-- div w ktorym wyśiwetlany jest tekst na stronie -->
+        <div id="content">
+            „Rick i Morty” – amerykański animowany serial telewizyjny dla dorosłych stworzony przez Justina Roilanda oraz Dana Harmona dla Adult Swim.
+            Premierowy odcinek pierwszego sezonu w Ameryce został wyemitowany 2 grudnia 2013 roku na kanale Adult Swim. Drugi sezon potwierdzony został w styczniu 2014 roku.
+            Amerykańska premiera sezonu drugiego miała miejsce 26 lipca 2015 roku, a 12 sierpnia 2015 roku potwierdzono przedłużenie serialu o sezon trzeci.
+            27 sierpnia 2016 roku w serwisie Netflix udostępniono serial w polskiej wersji językowej – z dubbingiem lub z polskimi napisami.
+            Niezapowiedziana amerykańska premiera trzeciego sezonu miała miejsce 1 kwietnia 2017 roku na kanale Adult Swim w ramach dorocznego żartu z okazji prima aprilis. Oficjalna premiera miała miejsce 30 lipca 2017 roku, a Polska premiera nastąpiła 5 listopada 2017 roku na platformie Netflix.
+            Od 28 lipca 2017 roku kanał Comedy Central rozpoczął emisję dwóch pierwszych sezonów serialu z inną wersją dubbingu.
+            10 maja 2018 roku, Dan Harmon i Justin Roiland potwierdzili, że Adult Swim przedłużyło serial o kolejne 70 odcinków, potwierdzając powstanie czwartego sezonu, a także przyszłych sezonów.
+        </div>
+
+        <!-- div w ktorym wyśiwetlany jest obrazek na stronie -->
+        <div id="picture2"></div>
+
+        <!-- stopka -->
+        <div id="footer">
+            Wszelkie prawa zastrzeżone &copy;
+        </div>
+    </div>
+</body>
+</html>
