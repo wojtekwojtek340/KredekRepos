@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewData["Title"] = "BuyItemClient";
+}
+
+<br />
+<br />
+<br />
+<div>
+    <!--Dane zamawiającego-->
+    <h2>Dane zamawiającego:</h2>
+    <h3> @ViewBag.userName</h3>
+    <hr />
+    <!--zamówienie -->
+    <h2>Zamówienie:</h2>
+    <h3>@ViewBag.weight</h3>
+</div>
+
+<br />
+<br />
+<!--Przycisk powrotu-->
+<a class="btn btn-default" @Html.ActionLink("Powrót", "HoneyPage", "Home")>
+</a>

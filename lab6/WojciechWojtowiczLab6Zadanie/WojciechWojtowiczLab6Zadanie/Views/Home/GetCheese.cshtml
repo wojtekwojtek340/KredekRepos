@@ -1,0 +1,13 @@
+﻿@model CheeseViewModels
+@{
+    ViewData["Title"] = "GetCheese";
+}
+
+<h2>GetCheese</h2>
+
+<!--wyswietlenie informacji o serze-->
+<div>
+    <h2>@Model.Name</h2>
+    <h4>@Model.Price zł/kg</h4>
+    <img src="@Url.Content(Model.Photo)" , alt="@Model.Name" />
+</div>

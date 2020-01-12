@@ -1,0 +1,25 @@
+﻿@model List<MilkViewModels>
+@{
+    ViewData["Title"] = "MilkPage";
+}
+
+<br />
+<br />
+<br />
+@foreach (var milk in Model)
+{
+    <div>
+        <!--Nazwa-->
+        <h2>@milk.Name</h2>
+        <!--Cena-->
+        <h4>@milk.Price zł/l</h4>
+        <!--Zdjęcie-->
+        <img src="@Url.Content(milk.Photo)" , alt="@milk.Name" />
+        <a class="btn btn-default" @Html.ActionLink("Sprawdź", "GetMilk", "Home", new { name = milk.Name })>
+        </a>
+    </div>
+}
+<!--złożenie zamówienia-->
+<hr />
+<a class="btn btn-default" @Html.ActionLink("Złóż zamówienie", "BuyMilk", "Home")>
+</a>

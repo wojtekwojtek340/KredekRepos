@@ -1,0 +1,13 @@
+﻿@model MilkViewModels
+
+@{
+    ViewData["Title"] = "GetMilk";
+}
+
+<h2>GetMilk</h2>
+<!--wyświetlenie informacji o mleku-->
+<div>
+    <h2>@Model.Name</h2>
+    <h4>@Model.Price zł/kg</h4>
+    <img src="@Url.Content(Model.Photo)" , alt="@Model.Name" />
+</div>

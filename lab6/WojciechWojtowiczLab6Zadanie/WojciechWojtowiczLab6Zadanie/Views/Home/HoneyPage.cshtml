@@ -1,0 +1,30 @@
+﻿@model List<HoneyViewModels>
+@{
+    ViewData["Title"] = "HoneyPage";
+}
+
+<br />
+<br />
+<br />
+
+@foreach (var honey in Model)
+{
+    <div>
+        <!--nazwa-->
+        <h2>@honey.Name</h2>
+        <!--cena-->
+        <h4>@honey.Price zł/kg</h4>
+        <!--zdjecie-->
+        <img src="@Url.Content(honey.Photo)" , alt="@honey.Name" />
+        <a class="btn btn-default" @Html.ActionLink("Sprawdź", "GetHoney", "Home", new { name = honey.Name })>
+        </a>
+    </div>
+}
+<!--złozenie zamowienia-->
+<hr />
+<a class="btn btn-default" @Html.ActionLink("Złóż zamówienie", "BuyHoney", "Home")>
+</a>
+
+
+
+

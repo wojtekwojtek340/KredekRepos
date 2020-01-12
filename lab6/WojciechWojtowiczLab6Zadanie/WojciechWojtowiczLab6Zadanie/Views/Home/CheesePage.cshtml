@@ -1,0 +1,27 @@
+﻿@model List<CheeseViewModels>
+@{
+    ViewData["Title"] = "CheesePage";
+}
+
+<br />
+<br />
+<br />
+
+@foreach (var cheese in Model)
+{
+    <div>
+        <!--Nazwa-->
+        <h2>@cheese.Name</h2>
+        <!--Cena-->
+        <h4>@cheese.Price zł/kg</h4>
+        <!--Zdjęcie-->
+        <img src="@Url.Content(cheese.Photo)" , alt="@cheese.Name" />
+        <a class="btn btn-default" @Html.ActionLink("Sprawdź", "GetCheese", "Home", new { name = cheese.Name })>
+        </a>
+    </div>
+}
+
+<!--Przycisk złozenia zamówienia-->
+<hr />
+<a class="btn btn-default" @Html.ActionLink("Złóż zamówienie", "BuyCheese", "Home")>
+</a>
