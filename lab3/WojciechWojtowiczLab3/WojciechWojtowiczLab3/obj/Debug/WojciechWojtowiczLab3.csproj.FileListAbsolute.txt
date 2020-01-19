@@ -20,3 +20,13 @@ C:\Users\Wojtek\Desktop\WojciechWojtowiczLab3\WojciechWojtowiczLab3\obj\Debug\Wo
 C:\Users\Wojtek\Desktop\WojciechWojtowiczLab3\WojciechWojtowiczLab3\obj\Debug\WojciechWojtowiczLab3.csproj.CoreCompileInputs.cache
 C:\Users\Wojtek\Desktop\WojciechWojtowiczLab3\WojciechWojtowiczLab3\obj\Debug\WojciechWojtowiczLab3.exe
 C:\Users\Wojtek\Desktop\WojciechWojtowiczLab3\WojciechWojtowiczLab3\obj\Debug\WojciechWojtowiczLab3.pdb
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab3\WojciechWojtowiczLab3\WojciechWojtowiczLab3\bin\Debug\WojciechWojtowiczLab3.exe.config
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab3\WojciechWojtowiczLab3\WojciechWojtowiczLab3\bin\Debug\WojciechWojtowiczLab3.exe
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab3\WojciechWojtowiczLab3\WojciechWojtowiczLab3\bin\Debug\WojciechWojtowiczLab3.pdb
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab3\WojciechWojtowiczLab3\WojciechWojtowiczLab3\obj\Debug\WojciechWojtowiczLab3.csprojAssemblyReference.cache
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab3\WojciechWojtowiczLab3\WojciechWojtowiczLab3\obj\Debug\WojciechWojtowiczLab3.FormMain.resources
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab3\WojciechWojtowiczLab3\WojciechWojtowiczLab3\obj\Debug\WojciechWojtowiczLab3.FormWarehouse.resources
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab3\WojciechWojtowiczLab3\WojciechWojtowiczLab3\obj\Debug\WojciechWojtowiczLab3.Properties.Resources.resources
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab3\WojciechWojtowiczLab3\WojciechWojtowiczLab3\obj\Debug\WojciechWojtowiczLab3.csproj.GenerateResource.cache
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab3\WojciechWojtowiczLab3\WojciechWojtowiczLab3\obj\Debug\WojciechWojtowiczLab3.exe
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab3\WojciechWojtowiczLab3\WojciechWojtowiczLab3\obj\Debug\WojciechWojtowiczLab3.pdb
