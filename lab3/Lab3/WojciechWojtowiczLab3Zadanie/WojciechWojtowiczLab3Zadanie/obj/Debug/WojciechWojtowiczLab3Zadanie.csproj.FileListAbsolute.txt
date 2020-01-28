@@ -34,8 +34,6 @@ C:\Users\Wojtek\Desktop\WojciechWojtowiczLab3Zadanie\WojciechWojtowiczLab3Zadani
 C:\Users\Wojtek\Desktop\WojciechWojtowiczLab3Zadanie\WojciechWojtowiczLab3Zadanie\obj\Debug\WojciechWojtowiczLab3Zadanie.csproj.CoreCompileInputs.cache
 C:\Users\Wojtek\Desktop\WojciechWojtowiczLab3Zadanie\WojciechWojtowiczLab3Zadanie\obj\Debug\WojciechWojtowiczLab3Zadanie.exe
 C:\Users\Wojtek\Desktop\WojciechWojtowiczLab3Zadanie\WojciechWojtowiczLab3Zadanie\obj\Debug\WojciechWojtowiczLab3Zadanie.pdb
-C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab3\Lab3\WojciechWojtowiczLab3Zadanie\WojciechWojtowiczLab3Zadanie\bin\Debug\WojciechWojtowiczLab3Zadanie.exe.config
-C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab3\Lab3\WojciechWojtowiczLab3Zadanie\WojciechWojtowiczLab3Zadanie\bin\Debug\WojciechWojtowiczLab3Zadanie.exe
 C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab3\Lab3\WojciechWojtowiczLab3Zadanie\WojciechWojtowiczLab3Zadanie\bin\Debug\WojciechWojtowiczLab3Zadanie.pdb
 C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab3\Lab3\WojciechWojtowiczLab3Zadanie\WojciechWojtowiczLab3Zadanie\obj\Debug\WojciechWojtowiczLab3Zadanie.csprojAssemblyReference.cache
 C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab3\Lab3\WojciechWojtowiczLab3Zadanie\WojciechWojtowiczLab3Zadanie\obj\Debug\WojciechWojtowiczLab3Zadanie.FormFishingCentre.resources
@@ -49,5 +47,7 @@ C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab3\Lab3\WojciechWojtowiczLab
 C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab3\Lab3\WojciechWojtowiczLab3Zadanie\WojciechWojtowiczLab3Zadanie\obj\Debug\WojciechWojtowiczLab3Zadanie.FormSingUp.resources
 C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab3\Lab3\WojciechWojtowiczLab3Zadanie\WojciechWojtowiczLab3Zadanie\obj\Debug\WojciechWojtowiczLab3Zadanie.Properties.Resources.resources
 C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab3\Lab3\WojciechWojtowiczLab3Zadanie\WojciechWojtowiczLab3Zadanie\obj\Debug\WojciechWojtowiczLab3Zadanie.csproj.GenerateResource.cache
-C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab3\Lab3\WojciechWojtowiczLab3Zadanie\WojciechWojtowiczLab3Zadanie\obj\Debug\WojciechWojtowiczLab3Zadanie.exe
 C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab3\Lab3\WojciechWojtowiczLab3Zadanie\WojciechWojtowiczLab3Zadanie\obj\Debug\WojciechWojtowiczLab3Zadanie.pdb
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab3\Lab3\WojciechWojtowiczLab3Zadanie\WojciechWojtowiczLab3Zadanie\bin\Debug\WojciechWojtowiczLab3Zadanie.exe.config
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab3\Lab3\WojciechWojtowiczLab3Zadanie\WojciechWojtowiczLab3Zadanie\bin\Debug\WojciechWojtowiczLab3Zadanie.exe
+C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab3\Lab3\WojciechWojtowiczLab3Zadanie\WojciechWojtowiczLab3Zadanie\obj\Debug\WojciechWojtowiczLab3Zadanie.exe
