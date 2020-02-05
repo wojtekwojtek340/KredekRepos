@@ -1,0 +1,9 @@
+C:\Users\Dell\source\repos\A1\A1\bin\Debug\A1.exe.config
+C:\Users\Dell\source\repos\A1\A1\bin\Debug\A1.exe
+C:\Users\Dell\source\repos\A1\A1\bin\Debug\A1.pdb
+C:\Users\Dell\source\repos\A1\A1\obj\Debug\A1.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\A1\A1\obj\Debug\A1.Form1.resources
+C:\Users\Dell\source\repos\A1\A1\obj\Debug\A1.Properties.Resources.resources
+C:\Users\Dell\source\repos\A1\A1\obj\Debug\A1.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\A1\A1\obj\Debug\A1.exe
+C:\Users\Dell\source\repos\A1\A1\obj\Debug\A1.pdb
