@@ -5877,23 +5877,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Wojtek\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\wojte\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wojtek\\Desktop\\Kredek\\wojciech_wojtowicz\\lab8\\WojciechWojtowiczLab8\\KNKredek.Tests\\KNKredek.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\wojte\\OneDrive\\Pulpit\\KredekRepos\\lab8\\WojciechWojtowiczLab8\\KNKredek.Tests\\KNKredek.Tests.csproj",
       "projectName": "KNKredek.Tests",
-      "projectPath": "C:\\Users\\Wojtek\\Desktop\\Kredek\\wojciech_wojtowicz\\lab8\\WojciechWojtowiczLab8\\KNKredek.Tests\\KNKredek.Tests.csproj",
-      "packagesPath": "C:\\Users\\Wojtek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wojtek\\Desktop\\Kredek\\wojciech_wojtowicz\\lab8\\WojciechWojtowiczLab8\\KNKredek.Tests\\obj\\",
+      "projectPath": "C:\\Users\\wojte\\OneDrive\\Pulpit\\KredekRepos\\lab8\\WojciechWojtowiczLab8\\KNKredek.Tests\\KNKredek.Tests.csproj",
+      "packagesPath": "C:\\Users\\wojte\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\wojte\\OneDrive\\Pulpit\\KredekRepos\\lab8\\WojciechWojtowiczLab8\\KNKredek.Tests\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Wojtek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\wojte\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5905,9 +5901,10 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "projectReferences": {
-            "C:\\Users\\Wojtek\\Desktop\\Kredek\\wojciech_wojtowicz\\lab8\\WojciechWojtowiczLab8\\KNKredek\\KNKredek.csproj": {
-              "projectPath": "C:\\Users\\Wojtek\\Desktop\\Kredek\\wojciech_wojtowicz\\lab8\\WojciechWojtowiczLab8\\KNKredek\\KNKredek.csproj"
+            "C:\\Users\\wojte\\OneDrive\\Pulpit\\KredekRepos\\lab8\\WojciechWojtowiczLab8\\KNKredek\\KNKredek.csproj": {
+              "projectPath": "C:\\Users\\wojte\\OneDrive\\Pulpit\\KredekRepos\\lab8\\WojciechWojtowiczLab8\\KNKredek\\KNKredek.csproj"
             }
           }
         }
@@ -5920,6 +5917,7 @@
     },
     "frameworks": {
       "netcoreapp2.1": {
+        "targetAlias": "netcoreapp2.1",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
@@ -5950,7 +5948,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

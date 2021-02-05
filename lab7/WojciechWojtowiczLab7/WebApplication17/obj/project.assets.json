@@ -6288,23 +6288,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Wojtek\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\wojte\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wojtek\\Desktop\\Kredek\\wojciech_wojtowicz\\lab7\\WojciechWojtowiczLab7\\WebApplication17\\WojciechWojtowiczLab7.csproj",
+      "projectUniqueName": "C:\\Users\\wojte\\OneDrive\\Pulpit\\KredekRepos\\lab7\\WojciechWojtowiczLab7\\WebApplication17\\WojciechWojtowiczLab7.csproj",
       "projectName": "WojciechWojtowiczLab7",
-      "projectPath": "C:\\Users\\Wojtek\\Desktop\\Kredek\\wojciech_wojtowicz\\lab7\\WojciechWojtowiczLab7\\WebApplication17\\WojciechWojtowiczLab7.csproj",
-      "packagesPath": "C:\\Users\\Wojtek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wojtek\\Desktop\\Kredek\\wojciech_wojtowicz\\lab7\\WojciechWojtowiczLab7\\WebApplication17\\obj\\",
+      "projectPath": "C:\\Users\\wojte\\OneDrive\\Pulpit\\KredekRepos\\lab7\\WojciechWojtowiczLab7\\WebApplication17\\WojciechWojtowiczLab7.csproj",
+      "packagesPath": "C:\\Users\\wojte\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\wojte\\OneDrive\\Pulpit\\KredekRepos\\lab7\\WojciechWojtowiczLab7\\WebApplication17\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Wojtek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\wojte\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6316,6 +6312,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -6327,6 +6324,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
@@ -6355,7 +6353,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

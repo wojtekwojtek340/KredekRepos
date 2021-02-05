@@ -35,3 +35,16 @@ C:\Users\Dell\Desktop\WojciechWojtowiczLab1Zadanie\WojciechWojtowiczLab1Zadanie\
 C:\Users\Dell\Desktop\WojciechWojtowiczLab1Zadanie\WojciechWojtowiczLab1Zadanie\obj\Debug\WojciechWojtowiczLab1Zadanie.csproj.CoreCompileInputs.cache
 C:\Users\Dell\Desktop\WojciechWojtowiczLab1Zadanie\WojciechWojtowiczLab1Zadanie\obj\Debug\WojciechWojtowiczLab1Zadanie.exe
 C:\Users\Dell\Desktop\WojciechWojtowiczLab1Zadanie\WojciechWojtowiczLab1Zadanie\obj\Debug\WojciechWojtowiczLab1Zadanie.pdb
+C:\Users\wojte\OneDrive\Pulpit\KredekRepos\lab1\Lab1\WojciechWojtowiczLab1Zadanie\WojciechWojtowiczLab1Zadanie\bin\Debug\WojciechWojtowiczLab1Zadanie.exe.config
+C:\Users\wojte\OneDrive\Pulpit\KredekRepos\lab1\Lab1\WojciechWojtowiczLab1Zadanie\WojciechWojtowiczLab1Zadanie\bin\Debug\WojciechWojtowiczLab1Zadanie.exe
+C:\Users\wojte\OneDrive\Pulpit\KredekRepos\lab1\Lab1\WojciechWojtowiczLab1Zadanie\WojciechWojtowiczLab1Zadanie\bin\Debug\WojciechWojtowiczLab1Zadanie.pdb
+C:\Users\wojte\OneDrive\Pulpit\KredekRepos\lab1\Lab1\WojciechWojtowiczLab1Zadanie\WojciechWojtowiczLab1Zadanie\obj\Debug\WojciechWojtowiczLab1Zadanie.csprojAssemblyReference.cache
+C:\Users\wojte\OneDrive\Pulpit\KredekRepos\lab1\Lab1\WojciechWojtowiczLab1Zadanie\WojciechWojtowiczLab1Zadanie\obj\Debug\WojciechWojtowiczLab1Zadanie.FormBarrackMore.resources
+C:\Users\wojte\OneDrive\Pulpit\KredekRepos\lab1\Lab1\WojciechWojtowiczLab1Zadanie\WojciechWojtowiczLab1Zadanie\obj\Debug\WojciechWojtowiczLab1Zadanie.FormExtractionInfo.resources
+C:\Users\wojte\OneDrive\Pulpit\KredekRepos\lab1\Lab1\WojciechWojtowiczLab1Zadanie\WojciechWojtowiczLab1Zadanie\obj\Debug\WojciechWojtowiczLab1Zadanie.FormMain.resources
+C:\Users\wojte\OneDrive\Pulpit\KredekRepos\lab1\Lab1\WojciechWojtowiczLab1Zadanie\WojciechWojtowiczLab1Zadanie\obj\Debug\WojciechWojtowiczLab1Zadanie.FormWallInfo.resources
+C:\Users\wojte\OneDrive\Pulpit\KredekRepos\lab1\Lab1\WojciechWojtowiczLab1Zadanie\WojciechWojtowiczLab1Zadanie\obj\Debug\WojciechWojtowiczLab1Zadanie.Properties.Resources.resources
+C:\Users\wojte\OneDrive\Pulpit\KredekRepos\lab1\Lab1\WojciechWojtowiczLab1Zadanie\WojciechWojtowiczLab1Zadanie\obj\Debug\WojciechWojtowiczLab1Zadanie.csproj.GenerateResource.cache
+C:\Users\wojte\OneDrive\Pulpit\KredekRepos\lab1\Lab1\WojciechWojtowiczLab1Zadanie\WojciechWojtowiczLab1Zadanie\obj\Debug\WojciechWojtowiczLab1Zadanie.csproj.CoreCompileInputs.cache
+C:\Users\wojte\OneDrive\Pulpit\KredekRepos\lab1\Lab1\WojciechWojtowiczLab1Zadanie\WojciechWojtowiczLab1Zadanie\obj\Debug\WojciechWojtowiczLab1Zadanie.exe
+C:\Users\wojte\OneDrive\Pulpit\KredekRepos\lab1\Lab1\WojciechWojtowiczLab1Zadanie\WojciechWojtowiczLab1Zadanie\obj\Debug\WojciechWojtowiczLab1Zadanie.pdb

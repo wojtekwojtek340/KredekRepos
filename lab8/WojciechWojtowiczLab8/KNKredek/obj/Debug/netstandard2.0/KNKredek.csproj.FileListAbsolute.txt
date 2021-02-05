@@ -24,3 +24,12 @@ C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab8\WojciechWojtowiczLab8\KNK
 C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab8\WojciechWojtowiczLab8\KNKredek\obj\Debug\netstandard2.0\KNKredek.AssemblyInfo.cs
 C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab8\WojciechWojtowiczLab8\KNKredek\obj\Debug\netstandard2.0\KNKredek.dll
 C:\Users\Wojtek\Desktop\Kredek\wojciech_wojtowicz\lab8\WojciechWojtowiczLab8\KNKredek\obj\Debug\netstandard2.0\KNKredek.pdb
+C:\Users\wojte\OneDrive\Pulpit\KredekRepos\lab8\WojciechWojtowiczLab8\KNKredek\bin\Debug\netstandard2.0\KNKredek.deps.json
+C:\Users\wojte\OneDrive\Pulpit\KredekRepos\lab8\WojciechWojtowiczLab8\KNKredek\bin\Debug\netstandard2.0\KNKredek.dll
+C:\Users\wojte\OneDrive\Pulpit\KredekRepos\lab8\WojciechWojtowiczLab8\KNKredek\bin\Debug\netstandard2.0\KNKredek.pdb
+C:\Users\wojte\OneDrive\Pulpit\KredekRepos\lab8\WojciechWojtowiczLab8\KNKredek\obj\Debug\netstandard2.0\KNKredek.csprojAssemblyReference.cache
+C:\Users\wojte\OneDrive\Pulpit\KredekRepos\lab8\WojciechWojtowiczLab8\KNKredek\obj\Debug\netstandard2.0\KNKredek.AssemblyInfoInputs.cache
+C:\Users\wojte\OneDrive\Pulpit\KredekRepos\lab8\WojciechWojtowiczLab8\KNKredek\obj\Debug\netstandard2.0\KNKredek.AssemblyInfo.cs
+C:\Users\wojte\OneDrive\Pulpit\KredekRepos\lab8\WojciechWojtowiczLab8\KNKredek\obj\Debug\netstandard2.0\KNKredek.csproj.CoreCompileInputs.cache
+C:\Users\wojte\OneDrive\Pulpit\KredekRepos\lab8\WojciechWojtowiczLab8\KNKredek\obj\Debug\netstandard2.0\KNKredek.dll
+C:\Users\wojte\OneDrive\Pulpit\KredekRepos\lab8\WojciechWojtowiczLab8\KNKredek\obj\Debug\netstandard2.0\KNKredek.pdb
