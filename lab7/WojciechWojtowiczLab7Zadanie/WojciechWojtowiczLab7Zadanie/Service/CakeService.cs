@@ -13,7 +13,7 @@ namespace WojciechWojtowiczLab7Zadanie.Service
         //lista ciast
         public static List<Cake> cakes = new List<Cake>();
         //connection string
-        string connectionString = "Server=WOJTEKPC\\WOJTEKSQL;Database=Restaurant;Trusted_Connection=True;";
+        string connectionString = "Server=DESKTOP-TH6F0L5;Database=Restaurant;Trusted_Connection=True;";
 
         /// <summary>
         /// konstruktor

@@ -477,6 +477,11 @@ namespace WojciechWojtowiczLab4
             _salaries.Save();
             Load();
             MessageBox.Show(showSponsor[id - 1].Name + " wydał łącznie " + money);
-        } 
+        }
+
+        private void dataGridViewJumpers_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
